@@ -3,6 +3,7 @@
 ![ScyllaDB](https://img.shields.io/badge/ScyllaDB-005483?logo=scylladb&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-5A2D82?logo=apacheairflow&logoColor=white&style=flat-square)
+
 Hello, I'm **Seo Erick**,
 
 - 🔭 Currently, I'm working at **Allos** as a **Machine Learning Engineer** and **Data Engineer**.
